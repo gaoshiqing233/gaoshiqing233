@@ -3,5 +3,5 @@
 
 ## about author
 * QQ: 765****65
-* github:[@xx](http://github.com/javadoc)
-* blog:[@xx](http://javadoc.github.io)
+* github:[github](http://github.com/javadoc)
+* blog:[bolg](http://javadoc.github.io)
